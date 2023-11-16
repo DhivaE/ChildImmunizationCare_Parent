@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ChildImmunizationCare": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7181",
+      "launchBrowser": false
+    }
+  }
+}
